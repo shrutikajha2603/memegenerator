@@ -4,8 +4,8 @@
 }
 
 .meme-generator img {
-  max-width: 100%;
-  height: auto;
+  height: 430px;
+  object-fit: cover;
 }
 
 .meme-generator .generate-meme-btn {
@@ -61,18 +61,10 @@
 }
 
 .footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
   text-align: center;
   display: flex;
   justify-content: center;
-  background-color: #333; /* Adjust the background color as needed */
-  padding: 10px;
-  color: white; /* Adjust the text color as needed */
 }
-
 
 body {
   background-color: rgb(177, 177, 177);
@@ -95,11 +87,5 @@ h1 {
   to {
     width: 100%;
     margin-left: 0;
-  }
-}
-
-@media (max-width: 768px){
-  h1{
-    font-size: 16px;
   }
 }
