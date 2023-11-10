@@ -1,10 +1,13 @@
 .meme-generator {
   font-family: "Roboto", sans-serif;
   text-align: center;
+  justify-content: center;
 }
 
 .meme-generator img {
   height: 60vh;
+  display: block;
+  margin: 0 auto;
 }
 
 .meme-generator .generate-meme-btn {
