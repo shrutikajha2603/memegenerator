@@ -80,7 +80,7 @@ h1 {
   overflow: hidden; 
   white-space: nowrap; 
   display: inline-block; 
-  animation: typing 10s steps(60) infinite;
+  animation: typing 5s steps(60) infinite;
 }
 
 @keyframes typing {
