@@ -4,7 +4,8 @@
 }
 
 .meme-generator img {
-  height: 60vh
+  max-width: 100%;
+  height: auto;
 }
 
 .meme-generator .generate-meme-btn {
