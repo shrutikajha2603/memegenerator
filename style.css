@@ -42,11 +42,10 @@
 }
 
 body{
-  background-color: antiquewhite;
+  background-color: rgb(233, 132, 65);
 }
 h1 {
   text-align: center;
-  padding-bottom: 20px;
   font-family: 'Times New Roman', Times, serif;
   color: rgb(25, 16, 150);
   overflow: hidden; 
