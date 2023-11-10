@@ -27,7 +27,7 @@
   box-shadow: none;
 }
 .meme-generator .generate-meme-btn:before,
-/* .meme-generator .generate-meme-btn:after {
+.meme-generator .generate-meme-btn:after {
   content: "";
   position: absolute;
   top: 0;
@@ -38,7 +38,7 @@
   box-shadow: -1px -1px 5px 0px #fff, 7px 7px 20px 0px #0003,
     4px 4px 5px 0px #0002;
   transition: 400ms ease all;
-} */
+}
 .meme-generator .generate-meme-btn:after {
   right: inherit;
   top: inherit;
